@@ -1,1 +1,2 @@
-printf("goodbye world!")
+printf("goodbye world!");
+print("Bye bye");
