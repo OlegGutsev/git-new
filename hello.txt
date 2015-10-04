@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-print("Hello World!;");
-printf("I'm Oleg;");
-print("Hello;");
-print("Hello lololo;");
-print("Hellozxzxcz;");
-=======
