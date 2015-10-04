@@ -1,2 +1,0 @@
-printf("goodbye world!");
-print("Bye bye");
