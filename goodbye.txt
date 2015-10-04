@@ -1,3 +1,4 @@
 printf("goodbye world!");
 print("Bye bye");
 print("Bye bye frends");
+print("hello frends");
